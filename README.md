@@ -1,6 +1,7 @@
 # useful-links
 
 Collection of github repos about author's web tools usage
+- [KEYBOARD SHORTCUTS](https://github.com/Axlfc/keyboard-kung-fu)
 - [WEBS](https://github.com/Axlfc/useful-webs)
 - [SOFTWARE](https://github.com/Axlfc/useful-software)
 - [HACKING](https://github.com/Axlfc/hacking-tools)
